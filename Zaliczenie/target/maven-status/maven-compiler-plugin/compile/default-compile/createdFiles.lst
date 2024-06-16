@@ -1,0 +1,4 @@
+pl\lodz\uni\eksoc\interfaces\ReadCSVFilesInterface.class
+pl\lodz\uni\eksoc\zaliczenie\services\ReadCSVFiles.class
+pl\lodz\uni\eksoc\zaliczenie\Start.class
+pl\lodz\uni\eksoc\zaliczenie\services\ConsoleHelper.class
